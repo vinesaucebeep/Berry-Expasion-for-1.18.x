@@ -13,4 +13,14 @@ Author:beep67
 
 Textures:beep67
 
+# Addons!
 
+That's right! some mods are **compatible**! 
+
+The only mod so far is **Oh The Biomes You'll Go** by AOCAWOL and Corgi Taco.
+
+The delicious blueberries from that mod can be used to make jams and jam sandwiches.
+
+# What's to come next
+
+Probably more mod compatibility and a honey sandwich.
