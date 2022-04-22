@@ -1,7 +1,7 @@
 # Berry Expasion for 1.18.x
  Adds in a new berry and new functions for sweet and blackberries.
  
- ![image](https://user-images.githubusercontent.com/88556555/164602259-65e42512-cff8-410d-9ea1-e8133c23068f.png)
+![betitle](https://user-images.githubusercontent.com/88556555/164602360-ff0f6ffa-1fa6-488a-a223-bbd35e2a724b.png)
 
 
 Features:
